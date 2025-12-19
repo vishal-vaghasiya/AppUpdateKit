@@ -112,4 +112,4 @@ Current Version: **1.0.0 (Initial Release)**
 
 ## 👤 Author
 Vishal Vaghasiya  
-GitHub: [vishalvaghasiya-ios](https://github.com/vishalvaghasiya-ios)
+GitHub: [vishal-vaghasiya](https://github.com/vishal-vaghasiya)
